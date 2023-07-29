@@ -23,4 +23,4 @@ What challenges did you face and how did you overcome them?
 
 ## Acknowledgements
 
- - [Curso de Análisis Exploratorio de Datos ](https://platzi.com/clases/3568-analisis-exploratorio-datos/)
+ - [Curso de Análisis Exploratorio de Datos ](https://platzi.com/cursos/webscraping/)
